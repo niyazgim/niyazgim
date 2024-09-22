@@ -12,4 +12,4 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on `telegram bot that connects people`
+- 🔭 I’m currently working on `app that connects people`
