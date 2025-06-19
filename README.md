@@ -12,4 +12,4 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on `app that connects people`
+- 🔭 I’m currently working on `service that makes learning way easier and more understandable`
