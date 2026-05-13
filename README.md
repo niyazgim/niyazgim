@@ -12,4 +12,4 @@
   </a>
 </h1>
 
-- MD + DBLM for building the docs of future 
+- MD + DBML editor will connect all teams and allow ai to write docs rapidly fast and use native MPC
