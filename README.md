@@ -12,4 +12,4 @@
   </a>
 </h1>
 
-- MD + DBML editor will connect all teams and allow ai to write docs rapidly fast and use native MPC
+- A little bit and we just will check how AI done our tasks
