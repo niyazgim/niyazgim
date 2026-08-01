@@ -12,4 +12,4 @@
   </a>
 </h1>
 
-- A little bit and we just will check how AI done our tasks
+- Yep, now we spend time only on fixing AI responses lol
